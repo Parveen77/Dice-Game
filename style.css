@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+.images{
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  padding:30px ;
+  margin: 2% 0% 2% 19%;
+
+
+}
+#winner{
+  text-align: center;
+  color: green;
+  font-weight:bolder;
+  margin-top: 5%;
+
+}
